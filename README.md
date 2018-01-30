@@ -21,4 +21,5 @@ They will get stringified before deployment, and you can then require them in yo
 
 ```js
 const COMPLEX_VARIABLE = json.parse(process.env.COMPLEX_VARIABLE);
+const STRAIGHTFORWARD_VARIABLE = process.env.STRAIGHTFORWARD_VARIABLE;
 ```
