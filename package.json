@@ -1,0 +1,27 @@
+{
+  "name": "@connected-home/serverless-plugin-stringify-variables",
+  "version": "1.0.0",
+  "description": "Serverless plugin to stringify nested environment variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnectedHomes/serverless-plugin-stringify-variables.git"
+  },
+  "keywords": [
+    "serverless",
+    "plugin",
+    "environment",
+    "variables",
+    "stringify",
+    "nested"
+  ],
+  "author": "Anna Doubkova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConnectedHomes/serverless-plugin-stringify-variables/issues"
+  },
+  "homepage": "https://github.com/ConnectedHomes/serverless-plugin-stringify-variables#readme"
+}
